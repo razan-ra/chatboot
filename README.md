@@ -259,5 +259,7 @@ HTTP 403 Forbidden
  الذكاء الاصطناعي  Google Gemini API (`gemini-2.0-flash`) 
  الخادم  Apache 2.4 (XAMPP) 
 
-developer:razan alziyadi
+developer: razan alziyadi
+
 لتجربة الشات بوت: http://localhost/chat_bot_exmample/
+نسخ الرابط وفتحه في صفحة ويب جديده
